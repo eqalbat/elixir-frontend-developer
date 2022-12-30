@@ -8,3 +8,10 @@
 Is it necessary to use react in elixir?
 
 Phoenix의 LiveView 단독으로 복잡한 인터렉션을 구현하기는 어렵다. 그래서 Frontend View Library가 필요하다.
+
+---
+
+애플리케이션에 대한 참고 자료
+
+- https://youtu.be/NotXpRovDoA
+- https://youtu.be/lAaD-6OQSHE
