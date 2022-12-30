@@ -3,6 +3,7 @@
 
 - [Phoenix 1.6 With TypeScript and React | by Alistair Israel | Better Programming](https://betterprogramming.pub/phoenix-1-6-with-typescript-react-bea7f3a792d5)
 - [Elixir + Phoenix LiveView + Svelte, Why?](https://seokjun.kim/elixir-phoenix-liveview-svelte/)
+- [Modern Webapps with React, Phoenix, Elixir and TypeScript](https://bpaulino.com/entries/modern-webapps-with-elixir-phoenix-typescript-react)
 
 Is it necessary to use react in elixir?
 
