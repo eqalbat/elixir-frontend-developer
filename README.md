@@ -2,3 +2,8 @@
 > [위키백과 - Elixir](https://ko.wikipedia.org/wiki/Elixir)
 
 - [Phoenix 1.6 With TypeScript and React | by Alistair Israel | Better Programming](https://betterprogramming.pub/phoenix-1-6-with-typescript-react-bea7f3a792d5)
+- [Elixir + Phoenix LiveView + Svelte, Why?](https://seokjun.kim/elixir-phoenix-liveview-svelte/)
+
+Is it necessary to use react in elixir?
+
+Phoenix의 LiveView 단독으로 복잡한 인터렉션을 구현하기는 어렵다. 그래서 Frontend View Library가 필요하다.
